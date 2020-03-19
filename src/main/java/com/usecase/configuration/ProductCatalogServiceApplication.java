@@ -1,4 +1,4 @@
-package com.usecase.productcatalogservice;
+package com.usecase.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
