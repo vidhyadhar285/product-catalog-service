@@ -1,4 +1,4 @@
-package com.usecase.service;
+package com.usecase.contoller;
 
 import java.util.List;
 
@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.usecase.model.GroupProduct;
+import com.usecase.service.ProductCatalogService;
 
 @RestController
 @RequestMapping("/")
