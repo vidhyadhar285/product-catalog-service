@@ -9,5 +9,9 @@ class ProductCatalogServiceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	//JUNIT Test case for fetchGroupedBrands end point
+	//JUNIT Test case for fetchGroupedPrice end point
+	
 
 }
